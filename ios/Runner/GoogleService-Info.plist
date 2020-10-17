@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>365620456281-02bmufpjj8prljrftdheu2c0b68gr81k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.365620456281-02bmufpjj8prljrftdheu2c0b68gr81k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA5RlC7vYyzfKrcBBWRZFPbyUgBQtwNapk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>365620456281</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.itesm.tc2024.votingApp</string>
+	<key>PROJECT_ID</key>
+	<string>voting-app-flutter-90567</string>
+	<key>STORAGE_BUCKET</key>
+	<string>voting-app-flutter-90567.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:365620456281:ios:4cfbdd581108835070ba48</string>
+	<key>DATABASE_URL</key>
+	<string>https://voting-app-flutter-90567.firebaseio.com</string>
+</dict>
+</plist>
